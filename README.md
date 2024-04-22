@@ -1,7 +1,16 @@
 ### Hi there 👋
 ## Welcome to my Github profile
-I am interested in Artificial Intelligence and Data Science. Currently i'm a Student in Digital Engineering in Data Science and Artificial Intelligence at National Graduate School of Arts and Crafts Rabat-Morocco. in parallel with my studies i'm developing mobile application using Flutter framwork.
+- About me:
+o Passionate Junior Software Engineer dedicated to crafting elegant solutions and driving innovation in the digital landscape.
+o I thrive in collaborative environments, leveraging my problem-solving skills to create efficient and scalable software solutions.
+o Always eager to learn and grow, I'm dedicated to building my technical skills and contributing to innovative projects that make a difference.
 
+- Tools I master:
+o Programming languages & Platforms: Java, Dart, TypeScript, SQL.
+o Technologies & Frameworks: Angular, Flutter, Spring boot.
+
+- Useful links:
+  o LinkedIn: [https://www.linkedin.com/in/oussama-ouardini/](https://www.linkedin.com/in/oussama-ouardini/)
 <!--
 **oussamaouardini/oussamaouardini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
